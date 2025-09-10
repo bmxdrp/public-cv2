@@ -1,0 +1,315 @@
+{
+  "basics": {
+    "name": "Daniel Rojano Peña",
+    "label": "Administrador Industrial, Full Stack Developer y Polimata.",
+    "image": "/me.jpg",
+    "email": "bmxdrp+publicv@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Profesional en Administración Industrial con experiencia en optimización de procesos y cadena de suministro. También poseo habilidades en desarrollo web FullStack, utilizando tecnologías como HTML, CSS, JavaScript, Astro, Node.js, MySQL, entre otros. Me considero polímata, con capacidad para aprender rápidamente y resolver problemas complejos. Orientado a resultados, con sólida ética de trabajo y habilidades de comunicación efectiva. Comprometido con el crecimiento y desarrollo organizacional.",
+    "location": {
+      "city": "Cartagena de Indias",
+      "countryCode": "CO",
+      "region": "Colombia",
+      "url": "https://maps.app.goo.gl/Py389C7AfFqmHr567"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Daniel Rojano Peña",
+        "url": "https://linkedin.com/in/daniel-rojano-peña"
+      },
+      {
+        "network": "X",
+        "username": "bmxdrp",
+        "url": "https://x.com/bmxdrp"
+      },
+      {
+        "network": "GitHub",
+        "username": "bmxdrp",
+        "url": "https://github.com/bmxdrp"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AGC del Caribe SAS",
+      "position": "Administrador operativo",
+      "url": "",
+      "startDate": "2024-12-22",
+      "endDate": "",
+      "summary": "Logistica de suministros · Manejo de personal· Atención al cliente · Planeación de mantenimientos · Presentacion de informes.",
+      "highlights": [
+        ""
+      ]
+    },{
+      "name": "Compulago SAS",
+      "position": "Ejecutivo de Ventas",
+      "url": "",
+      "startDate": "2024-03-14",
+      "endDate": "2024-08-31",
+      "summary": "Cierre de negocios · Logistica de suministros · Manejo de caja· Atención al cliente.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Negworld 10 SAS",
+      "position": "Administrador Lubricentro",
+      "url": "",
+      "startDate": "2023-11-13",
+      "endDate": "2023-12-02",
+      "summary": "Análisis de negocio · Dirección de equipos · Logistica de suministros · Manejo de caja· Microsoft Excel · Servicio de atención al cliente.",
+      "highlights": [
+        "Cubrimiento vacaciones."
+      ]
+    },
+    {
+      "name": "Universidad Libre - Sede Cartagena",
+      "position": "Auxiliar de investigación (practicas)", 
+      "url": "https://unilibre.edu.co/",
+      "startDate": "2021-06-10",
+      "endDate": "2021-12-11",
+      "summary": "Solicitud de requisiciones, cotizaciones, diseños digitales para material publicitario, manejo de la documentación y redacción de informes. Ademas, Apoye en el proceso editorial y de publicacion de las revistas: 'Saber, Ciencia y Libertad', 'Cultural UniLibre' y 'Gerencia Libre'.",
+      "highlights": [
+        "Manejo de software: OJS."
+      ]
+    },
+    {
+      "name": "Beltran Distribuciones SAS",
+      "position": "Asesor comercial",
+      "startDate": "2018-08-02",
+      "endDate": "2019-02-02",
+      "summary": "Atencion al cliente. Visitas a Tiendas y autoservicios (aprox. 70 diarias). Organización de productos en punto de venta. Entrega de mercancía. Venta en frio.",
+      "highlights": [
+        "Manejo de software: Propio."
+      ]
+    },
+    {
+      "name": "Hotel Auaecoco",
+      "position": "Webmaster",
+      "startDate": "2014-11-01",
+      "endDate": "2015-05-15",
+      "summary": "Edición de página web a partir de plantilla. Gestión del FrontEnd. Gestión de redes sociales. Mantenimiento y reparación de elementos de cómputo.",
+      "highlights": [
+        "Manejo de software: Wordpress."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [
+    {
+    "institution": "Universidad de Cartagena",
+    "area": "Administrador Industrial",
+    "startDate": "2015-08-01",
+    "endDate": "2023-07-13"
+  },{
+    "institution": "Tecnologico Comfenalco",
+    "area": "Tecnico en Mantenimiento Electronico Industrial",
+    "startDate": "2012-02-02",
+    "endDate": "2014-12-13"
+  }],
+  "Cursos": [
+    {
+    "title": "Complementaria virtual en higiene y manipulacion de alimentos.",
+    "date": "2023/10/05",
+    "awarder": "SENA"
+  },{
+    "title": "Complementaria virtual en herramientas de software para comercio electronico.",
+    "date": "2018/04/17",
+    "awarder": "SENA"
+  },{
+    "title": "Complementaria virtual en arquitectura de computadores.",
+    "date": "2017/10/30",
+    "awarder": "SENA"
+  },{
+    "title": "Complementaria virtual en manejo herramientas microsoft office 2010: Microsoft Word.",
+    "date": "2016/12/01",
+    "awarder": "SENA"
+  },{
+    "title": "Complementaria virtual en producción de imagenes digitales.",
+    "date": "2016/11/30",
+    "awarder": "SENA"
+  },{
+    "title": "Complementaria virtual en conceptualizacion del lenguaje de programacion C++.",
+    "date": "2016/11/16",
+    "awarder": "SENA"
+  }, {
+    "title": "Complementaria virtual en ingresos y gastos personales.",
+    "date": "2016/10/07",
+    "awarder": "SENA"
+  },{
+    "title": "Complementaria virtual en desarrollo web con PHP.",
+    "date": "2016/07/25",
+    "awarder": "SENA"
+  }],
+  "certificates": [
+    {
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [
+    {
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado"
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Medio"
+    },
+    {
+      "name": "Tailwind",
+      "level": "Medio"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medio"
+    },
+    {
+      "name": "Node",
+      "level": "Medio"
+    },
+    {
+      "name": "MySQL",
+      "level": "Medio"
+    },
+    {
+      "name": "Astro",
+      "level": "Medio"
+    },
+    {
+      "name": "GitHub",
+      "level": "Basico"    
+    },
+    {
+      "name": "Office",
+      "level": "Avanzado"    
+    },
+    {
+      "name": "Photoshop",
+      "level": "Medio"    
+    },
+    {
+      "name": "OJS",
+      "level": "Avanzado"    
+    },
+    {
+      "name": "Atencion al cliente",
+      "level": "Avanzado"    
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo | "
+    },
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+  {
+  "name": "Estudiar"
+  },
+  {
+    "name": "Viajes"
+  },
+  {
+    "name": "Playa"
+  },
+  {
+    "name": "Escuchar musica"
+  },
+  {
+    "name": "Actualizar conocimientos"
+  },
+  {
+    "name": "Ver peliculas en casa"
+  },
+  {
+    "name": "Experimentar con nuevas tecnologías"
+  },
+  {
+    "name": "Jugar videojuegos"
+  }
+],
+  "references": [
+    {
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "AfroLetra - Letras de canciones.",
+      "isActive": true,
+      "description": "Repositorio de letras de canciones, con panel de administración CMS HEADLESS.",
+      "highlights": [
+        "Desarrollo constante...",
+        "Contentful CMS",
+        "Astro",
+        "Tailwind",
+        "BackEnd",
+        "FrontEnd",
+        "GitHub",
+        "Netlify"
+      ],
+      "url": "https://afroletra.com",
+      "github": "https://github.com/bmxdrp/afroletra"
+    },{
+      "name": "Clon Nequi",
+      "isActive": true,
+      "description": "Clon de la interfaz de laapp movil Nequi, con propositos educativos.",
+      "highlights": [
+        "En Desarrollo",
+        "Astro",
+        "Tailwind",
+        "FrontEnd",
+        "GitHub",
+        "Netlify"
+      ],
+      "url": "https://clon-nequi-edu.netlify.app/",
+      "github": "https://github.com/bmxdrp/Clon-nequi"
+    },
+	{
+      "name": "Rifa Interactiva",
+      "isActive": true,
+      "description": "Webapp para la compra y visualizacion de numeros para rifas.",
+      "highlights": [
+        "En Desarrollo",
+        "Astro",
+        "Tailwind",
+        "FrontEnd",
+        "GitHub",
+        "Netlify"
+      ],
+      "url": "https://rifa-drp.netlify.app/",
+      "github": "https://github.com/bmxdrp/rifa"
+    }
+  ]
+}

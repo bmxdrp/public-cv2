@@ -1,0 +1,62 @@
+---
+import Section from "../Section.astro"
+
+import { Cursos } from "@lib/cv.json"
+---
+
+<Section title="Cursos">
+  <ul>
+    {
+      Cursos.map(({ title, date, awarder}) => {
+        const startYear = new Date(date).getFullYear()
+        return (
+          <li>
+            <article>
+              <header>
+                <div>
+                  <h3 class="title">{title}</h3>
+                </div>
+                <time>{startYear}</time>
+              </header>
+              <footer>
+                <p>{awarder}</p>
+              </footer>
+            </article>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .title {
+    font-weight: 400;
+    color: #222;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  time {
+    color: #555;
+    font-size: 0.85rem;
+    min-width: 102px;
+    text-align: right;
+  }
+
+  @media (width <= 700px) {
+    time {
+      text-align: right;
+    }
+  }
+</style>
