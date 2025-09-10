@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Rojano Peña",
-    "label": "Administrador Industrial, Full Stack Developer y Polimata.",
+    "label": "Administrador Industrial | Desarrollador Web Full Stack",
     "image": "/me.jpg",
     "email": "bmxdrp+publicv@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "Profesional en Administración Industrial con experiencia en optimización de procesos y cadena de suministro. También poseo habilidades en desarrollo web FullStack, utilizando tecnologías como HTML, CSS, JavaScript, Astro, Node.js, MySQL, entre otros. Me considero polímata, con capacidad para aprender rápidamente y resolver problemas complejos. Orientado a resultados, con sólida ética de trabajo y habilidades de comunicación efectiva. Comprometido con el crecimiento y desarrollo organizacional.",
+    "summary": "Profesional en Administración Industrial con experiencia en la optimización de procesos y la gestión de la cadena de suministro. Complemento mi perfil con habilidades en desarrollo web Full Stack, empleando tecnologías como HTML, CSS, JavaScript, Astro, Node.js y MySQL, lo que me permite integrar soluciones tecnológicas en entornos administrativos. Me defino como una persona versátil y orientada a resultados, con capacidad para aprender rápidamente, resolver problemas complejos y adaptarme a diferentes contextos. Destaco por mi ética de trabajo, mis habilidades de comunicación efectiva y mi compromiso con el crecimiento y la mejora continua de las organizaciones en las que participo.",
     "location": {
       "city": "Cartagena de Indias",
       "countryCode": "CO",
@@ -38,17 +38,17 @@
       "url": "",
       "startDate": "2024-12-22",
       "endDate": "",
-      "summary": "Logistica de suministros · Manejo de personal· Atención al cliente · Planeación de mantenimientos · Presentacion de informes.",
+      "summary": "Responsable de la logística de suministros y la gestión operativa del personal, garantizando la continuidad de los procesos internos. Encargado de la planeación y seguimiento de mantenimientos, así como de la atención y soporte a clientes. Elaboración de informes de gestión para la toma de decisiones, con enfoque en la optimización de recursos y la mejora de la eficiencia operativa.",
       "highlights": [
         ""
       ]
     },{
       "name": "Compulago SAS",
       "position": "Ejecutivo de Ventas",
-      "url": "",
+      "url": "https://www.compulago.com",
       "startDate": "2024-03-14",
       "endDate": "2024-08-31",
-      "summary": "Cierre de negocios · Logistica de suministros · Manejo de caja· Atención al cliente.",
+      "summary": "Encargado del cierre de negocios y gestión comercial, brindando asesoría personalizada a clientes y asegurando un servicio de calidad. Responsable del manejo de caja y control de transacciones, así como de la logística de suministros para garantizar la disponibilidad de productos. Contribuí al fortalecimiento de la relación con clientes mediante una atención cercana y orientada a resultados.",
       "highlights": [
         ""
       ]
@@ -59,9 +59,9 @@
       "url": "",
       "startDate": "2023-11-13",
       "endDate": "2023-12-02",
-      "summary": "Análisis de negocio · Dirección de equipos · Logistica de suministros · Manejo de caja· Microsoft Excel · Servicio de atención al cliente.",
+      "summary": "Responsable temporal de la operación del lubricentro durante un periodo de vacaciones, asegurando la continuidad del negocio y el cumplimiento de objetivos. Encargado de la dirección de equipos de trabajo, la logística de suministros y el manejo de caja. Realicé análisis de negocio con Microsoft Excel y brindé atención al cliente, manteniendo la eficiencia y calidad del servicio en todas las operaciones.",
       "highlights": [
-        "Cubrimiento vacaciones."
+      ""
       ]
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://unilibre.edu.co/",
       "startDate": "2021-06-10",
       "endDate": "2021-12-11",
-      "summary": "Solicitud de requisiciones, cotizaciones, diseños digitales para material publicitario, manejo de la documentación y redacción de informes. Ademas, Apoye en el proceso editorial y de publicacion de las revistas: 'Saber, Ciencia y Libertad', 'Cultural UniLibre' y 'Gerencia Libre'.",
+      "summary": "Apoyé en la gestión administrativa y documental del área de investigación, incluyendo la solicitud de requisiciones, cotizaciones y la elaboración de diseños digitales para material publicitario. Colaboré en la redacción de informes y en el proceso editorial y de publicación de las revistas académicas Saber, Ciencia y Libertad, Cultural UniLibre y Gerencia Libre.",
       "highlights": [
-        "Manejo de software: OJS."
+        "Manejo del software OJS (Open Journal Systems) para la administración de contenidos y flujos editoriales."
       ]
     },
     {
@@ -80,9 +80,9 @@
       "position": "Asesor comercial",
       "startDate": "2018-08-02",
       "endDate": "2019-02-02",
-      "summary": "Atencion al cliente. Visitas a Tiendas y autoservicios (aprox. 70 diarias). Organización de productos en punto de venta. Entrega de mercancía. Venta en frio.",
+      "summary": "Responsable de la gestión comercial y atención al cliente, realizando en promedio 70 visitas diarias a tiendas y autoservicios para impulsar la venta y garantizar la correcta exhibición de productos en el punto de venta. Encargado de la organización de mercancía, la entrega directa a clientes y la venta en frío, contribuyendo al fortalecimiento de la presencia de la marca en el mercado.",
       "highlights": [
-        "Manejo de software: Propio."
+        ""
       ]
     },
     {
@@ -90,9 +90,9 @@
       "position": "Webmaster",
       "startDate": "2014-11-01",
       "endDate": "2015-05-15",
-      "summary": "Edición de página web a partir de plantilla. Gestión del FrontEnd. Gestión de redes sociales. Mantenimiento y reparación de elementos de cómputo.",
+      "summary": "Encargado de la administración y actualización del sitio web a partir de plantillas, con enfoque en la gestión del FrontEnd para mejorar la experiencia del usuario. Responsable de la gestión de redes sociales, la optimización de la presencia digital del hotel y el mantenimiento y reparación de equipos de cómputo, garantizando la continuidad de los procesos tecnológicos.",
       "highlights": [
-        "Manejo de software: Wordpress."
+        "Manejo de WordPress como plataforma principal de gestión de contenidos."
       ]
     }
   ],
@@ -270,7 +270,7 @@
       "isActive": true,
       "description": "Repositorio de letras de canciones, con panel de administración CMS HEADLESS.",
       "highlights": [
-        "Desarrollo constante...",
+        "Terminado",
         "Contentful CMS",
         "Astro",
         "Tailwind",
@@ -280,10 +280,10 @@
         "Netlify"
       ],
       "url": "https://afroletra.com",
-      "github": "https://github.com/bmxdrp/afroletra"
+      "github": "https://github.com/bmxdrp/afroletra_v2"
     },{
       "name": "Clon Nequi",
-      "isActive": true,
+      "isActive": false,
       "description": "Clon de la interfaz de laapp movil Nequi, con propositos educativos.",
       "highlights": [
         "En Desarrollo",
@@ -298,7 +298,7 @@
     },
 	{
       "name": "Rifa Interactiva",
-      "isActive": true,
+      "isActive": false,
       "description": "Webapp para la compra y visualizacion de numeros para rifas.",
       "highlights": [
         "En Desarrollo",
